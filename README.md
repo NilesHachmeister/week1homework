@@ -13,3 +13,7 @@ This page was built with accessability as a main focus
 Usage:
 The only thing that the page needs is a web browser to open. 
 Below is an example of what the webpage should look like when opened.
+
+<img src="./example-screenshots/screenshot1.png" alt="the first screenshot of the web page">
+
+<img src="./example-screenshots/screenshot2.png" alt="the second screenshot of the web page">
